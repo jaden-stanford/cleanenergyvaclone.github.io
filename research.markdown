@@ -17,6 +17,10 @@ As a multi-disciplinary team including economists, engineers, and others, we add
 
 ### Decision Dashboards
 
+
+
 <br/>
 
 ### Technical and Policy Literature
+
+A major component of the policy research for the VA Clean Energy Project involves detailing the clean energy policies and initiatives in other states, in order to better understand how Virginia should proceed in phasing out carbon-emitting methods of energy generation. In addition to clean energy initiatives in the United States, our team is also interested in looking at clean energy policies abroad to gain further insight to the strategies that have worked and not worked in other areas of the world.

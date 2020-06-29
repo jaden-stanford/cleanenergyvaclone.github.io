@@ -19,7 +19,7 @@ The research done by our team is intended to assist the Virginia Department of M
 Our team is dedicated to improving the quality of Virginia's analysis into clean energy and sustainability practices as we progress toward net zero carbon emissions. A large focus of our project is on the potential of solar power and offshore wind power, as they have been determined to be two of the most promising sources for sustainable energy in Virginia.
 
 
-The News page includes a comprehensive overview of the events in the United States and specifically Virginia until present day regarding clean energy. The timeline includes state and federal legislation, clean energy initiatives at UVA, events involving Dominion Energy and Appalachian Power Co., and more.
+The [Timeline](/vacleanenergy.github.io/timeline/) page includes a comprehensive overview of the events in the United States and specifically Virginia until present day regarding clean energy. The timeline includes state and federal legislation, clean energy initiatives at UVA, events involving Dominion Energy and Appalachian Power Co., and more.
 
 
-In addition to the publications, general research interests, and example projects on this site, we also maintain a GitHub organization where much of the code resulting from our research is released free and open source.
+In addition to the [general research interests](/vacleanenergy.github.io/research/) and [example projects](/vacleanenergy.github.io/projects/) on this site, we also maintain a [GitHub organization](https://github.com/coopercenter) where much of the code resulting from our research is released free and open source.
