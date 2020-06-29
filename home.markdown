@@ -1,6 +1,6 @@
 ---
 title: "Home"
-layout: page
+layout: default
 excerpt: "Virginia Clean Energy Project @ Weldon Cooper Center."
 sitemap: false
 permalink: /
