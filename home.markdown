@@ -1,9 +1,9 @@
 ---
 title: "Home"
-layout: page
+layout: default
 excerpt: "Virginia Clean Energy Project @ Weldon Cooper Center."
 sitemap: false
-permalink: /home/
+permalink: /
 ---
 
 We are a team of researchers at the University of Virginia Weldon Cooper Center for Public Service exploring options in clean energy sourcing in response to new legislation mandating net carbon emission neutrality in Virginia by 2050.
