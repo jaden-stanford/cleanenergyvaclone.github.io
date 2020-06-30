@@ -1,15 +1,18 @@
 # Virginia Clean Energy Project Team Website
 
-***
 
 ## About the site
 
 To edit any of the main tabs of the website:
 
 -Homepage: home.markdown
+
 -Team: members.markdown
+
 -Projects: projects.markdown
+
 -Research: research.markdown
+
 -Timeline: timeline.markdown
 
 
