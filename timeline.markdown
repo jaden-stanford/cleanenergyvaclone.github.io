@@ -5,6 +5,7 @@ permalink: /timeline/
 ---
 ## The Move Towards Clean Energy
 
+<br/>
 
 
 _**May 1, 2020**_. Dominion Energy releases its [2020 Integrated Resource Plan.](https://www.dominionenergy.com/library/domcom/media/about-us/making-energy/2020-va-integrated-resource-plan.pdf?modified=20200501191108) This covers the 15 year period from 2021-2035\. Unlike the previous IRP, this one establishes a company-wide commitment to achieve net zero carbon dioxide and methane emissions by 2050.

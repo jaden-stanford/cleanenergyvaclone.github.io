@@ -4,76 +4,205 @@ title: Team
 permalink: /team/
 ---
 
-<div class="container-fluid" >
-    <div class="row">
-      <div id="gridid" class="col-sm-12">
-<h2 id="current-team">Team Members</h2>
+<div class="container-fluid">
+     <div class="row">
+       <div id="gridid" class="col-sm-12">
+ <h3>Team Members</h3>
 
 <div class="row">
 
-<div>
+ <div class="col-sm-6 clearfix">
+   <p><img src="/images/teampic/goodall.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+   <h4>Jonathan L. Goodall, Ph.D., P.E.</h4>
+   <p><i>Professor<br />email: goodall@virginia.edu <br /> <a href="https://engineering.virginia.edu/faculty/jonathan-l-goodall">University webpage</a> </i></p>
+
+   <p> Ph.D., Civil Engineering, University of Texas at Austin, 2005, Adviser <a href="http://www.caee.utexas.edu/prof/maidment/CAEE/maidment.htm">David R. Maidment</a> <br />
+ MS, Civil Engineering, University of Texas at Austin, 2003 <br />
+ BS, Civil Engineering, University of Virginia, 2001 </p>
+
+   <p>Professor Goodall directs the UVA Hydroinformatics Research Group and is a faculty member in the Department of Engineering Systems &amp; Environment with a courtesy appointment in Computer Science. He is also serves as the Associate Director of the <a href="http://linklab.virginia.edu">UVA Link Lab</a>. </p>
+ </div>
+
+ <div class="col-sm-6 clearfix">
+   <p><img src="/images/teampic/Yawen-1.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+   <h4>Yawen Shen</h4>
+   <p><i>Ph.D. Candidate<br />email: ys5dv@virginia.edu</i></p>
+
+   <p> M.S. Civil Engineering, Georgia Tech <br />
+ B.S. Civil Engineering, Wuhan University, China </p>
+
+   <p>Yaween is studying resilient infrastructure systems. His current work addresses the risk of flooding impacts to transportation infrastructure including bridges and culverts in particular. His current work is using 2D hydrodynamic models to simulate flooding in urban coastal environments. </p>
+ </div>
+
+</div>
+
+<div class="row">
+
+ <div class="col-sm-6 clearfix">
+   <p><img src="/images/teampic/bowes-1.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+   <h4>Ben Bowes</h4>
+   <p><i>Ph.D. Candidate<br />email: bdb3m@virginia.edu</i></p>
+
+   <p> M.E. Civil Engineering, University of Virginia <br />
+ B.S. Environmental Science, Virginia Wesleyan College </p>
+
+   <p>Ben is studying urban water infrastructure. His current research is on coastal flooding, real-time flood warning, and smart stormwater management. </p>
+ </div>
+
+ <div class="col-sm-6 clearfix">
+   <p><img src="/images/teampic/saby.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+   <h4>Linnea Saby</h4>
+   <p><i>Ph.D. Candidate<br />email: ls3en@virginia.edu</i></p>
+
+   <p> M.E. Civil Engineering, University of Virginia <br />
+ B.A. Environmental Studies, Guilford </p>
+
+   <p>Linnea’s research is at the interface of water resources engineering, environmental science, data science, and policy. She is a School of Data Science Fellow and is co-advised with Prof. Larry Band. </p>
+ </div>
+
+</div>
+
+<div class="row">
+
+ <div class="col-sm-6 clearfix">
+   <p><img src="/images/teampic/chen.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+   <h4>Alex Chen</h4>
+   <p><i>Ph.D. Candidate<br />email: abc8fq@virginia.edu</i></p>
+
+   <p> M.S. Bioenvironmental Systems Engineering, National Taiwan University, Taiwan <br />
+ B.S. Hydraulic and Ocean Engineering, National Cheng Kung University, Taiwan </p>
+
+   <p>Alex is researching smart stormwater management for coastal communities. He has been investigating the use of crowdsourcing, in particular Personal Weather Stations (PWS), for capturing rainfall during extreme weather events in Norfolk, VA. </p>
+ </div>
+
+ <div class="col-sm-6 clearfix">
+   <p><img src="/images/teampic/choi.png" class="img-responsive" width="25%" style="float: left" /></p>
+   <h4>Youngdon Choi</h4>
+   <p><i>Ph.D Candidate<br />email: yc5ef@virginia.edu</i></p>
+
+   <p> M.S. Civil Engineering, Pusan National University, Republic of Korea <br />
+ B.S. Civil Engineering, Pusan National University, Republic of Korea </p>
+
+   <p>Choi is working on the HydroShare project and is currently building the pySUMMA library for the SUMMA hydrologic model. </p>
+ </div>
+
+</div>
+
+<div class="row">
+
+ <div class="col-sm-6 clearfix">
+   <p><img src="/images/teampic/maghami.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+   <h4>Iman Maghami</h4>
+   <p><i>Ph.D. Candidate<br />email: im3vp@virginia.edu</i></p>
+
+   <p> M.S. Civil Engineering, University of Tehran, Iran <br />
+ B.S. Civil Engineering, Sharif University, Iran </p>
+
+   <p>Iman is working on using power harvesting and dynamic power management for smart water monitoring in flooding and water quality applications. </p>
+ </div>
+
+ <div class="col-sm-6 clearfix">
+   <p><img src="/images/teampic/zahura.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+   <h4>Faria Zahura</h4>
+   <p><i>Ph.D. Candidate<br />email: fz7xb@virginia.edu</i></p>
+
+   <p>B.S. Civil Engineering, Bangladesh University of Engineering and Technology (BUET) </p>
+
+   <p>Faria is applying data science approaches to better understanding transportation disruptions due to flooding. Her work is focused on the Hampton Roads region of Virginia. </p>
+ </div>
+
+</div>
+
+<div class="row">
+
+ <div class="col-sm-6 clearfix">
+   <p><img src="/images/teampic/nelson.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+   <h4>Jake Nelson</h4>
+   <p><i>Ph.D. Student<br />email: jn8vc@virginia.edu</i></p>
+
+   <p> M.S. CEE, Brigham Young University <br />
+ B.S. CEE, Brigham Young Univeristy </p>
+
+   <p>Jake is part of the Cyber-Physical Systems NRT program and his research is focusing on smart stormwater systems. </p>
+ </div>
+
+ <div class="col-sm-6 clearfix">
+   <p><img src="/images/teampic/lerma.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+   <h4>Natalie Lerma</h4>
+   <p><i>Ph.D. Student<br />email: nrl5fh@virginia.edu</i></p>
+
+   <p>B.S. Ocean Engineering, Texas A&amp;M University - Galveston </p>
+
+   <p>Natalie is part of the Cyber-Physical Systems NRT program and her research is focusing on coastal flooding. </p>
+ </div>
+
+</div>
+
+<div class="row">
+
+ <div class="col-sm-6 clearfix">
+   <p><img src="/images/teampic/yang.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+   <h4>Xiafei Yang</h4>
+   <p><i>M.S. Student<br />email: xy2wf@virginia.edu</i></p>
+
+   <p>B.S. Electrical Engineering and B.A. Physics, University of Virginia </p>
+
+   <p>Xiafei is studying smart stormwater system, incorporated with the idea of Internet of Things (IoT) and cyber-physical systems (CPS), to monitor and control moisture content at bioretention basins through long-distance wireless communication network. </p>
+ </div>
+
+ <div class="col-sm-6 clearfix">
+   <p><img src="/images/teampic/Allen.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+   <h4>Sean Allen</h4>
+   <p><i>M.E. Student<br />email: </i></p>
+
+   <p>B.S., Civil and Environmental Engineering </p>
+
+   <p>Sean explored the Things Network as a way to connect smart devices for stormwater monitoring. </p>
+ </div>
+
+</div>
+
+<div class="row">
+
+ <div class="col-sm-6 clearfix">
+   <p><img src="/images/teampic/johnson.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+   <h4>Naomi Johnson</h4>
+   <p><i>B.A. Student - Computer Science<br />email: snj3k@virginia.edu</i></p>
+
+   <p>Naomi is using image segmentation in order to identify the areal extent and depth of flood waters. </p>
+ </div>
+
+</div>
+
+<h3 id="alumni">Alumni</h3>
+
+<div class="row">
 
 <div class="col-sm-6 clearfix">
-  <p><img src="teampic/Shobe.JPG" class="img-responsive" width="25%" style="float: left" /></p>
-  <h4>Jonathan L. Goodall, Ph.D., P.E.</h4>
-  <p><i>Professor<br />email: goodall@virginia.edu <br /> <a href="https://engineering.virginia.edu/faculty/jonathan-l-goodall">University webpage</a> </i></p>
+  <p><img src="images/teampic/Aycock.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+  <h4>Daniel Aycock</h4>
+  <p><i>Associate, CustomerFirst Renewables<br /> <a href="https://www.linkedin.com/in/danielaycock/">LinkedIn</a></i></p>
+  <p> MBA, Darden School of Business, University of Virginia </a> <br />
+Master of Accountancy, University of Tennessee<br />
+B.S., Business Administration, University of Tennessee</p>
 
-  <p> Ph.D., Civil Engineering, University of Texas at Austin, 2005, Adviser <a href="http://www.caee.utexas.edu/prof/maidment/CAEE/maidment.htm">David R. Maidment</a> <br />
-MS, Civil Engineering, University of Texas at Austin, 2003 <br />
-BS, Civil Engineering, University of Virginia, 2001 </p>
-
-  <p>Professor Goodall directs the UVA Hydroinformatics Research Group and is a faculty member in the Department of Engineering Systems &amp; Environment with a courtesy appointment in Computer Science. He is also serves as the Associate Director of the <a href="http://linklab.virginia.edu">UVA Link Lab</a>. </p>
+  <p> Daniel worked with the Policy Research team during his time with the VA Clean Energy Project. He served as a lead author on a report reviewing the viability of an array of clean dispatchable generation and long-duration storage technologies to enable Virginia’s future 100% clean electricity system. After graduating from Darden, Daniel now lives in the Washington, DC area, where he is joining CustomerFirst Renewables (CFR), a leading clean energy consulting firm advising organizations seeking to access more renewable power. </p>
 </div>
-
 
 <div class="col-sm-6 clearfix">
-  <p><img src="teampic/small.jpg" class="img-responsive" width="25%" style="float: left"/></p>
-  <h4>Yawen Shen</h4>
-  <p><i>Ph.D. Candidate<br />email: ys5dv@virginia.edu</i></p>
+  <p><img src="images/teampic/Lohmeyer.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+  <h4>Tyler Lohmeyer</h4>
+  <p><i>Associate Utilities Analyst at the Virginia SCC<br /> <a href="https://www.linkedin.com/in/tyler-lohmeyer-7a2a26147/">LinkedIn</a></i></p>
+  <p> B.A., Economics, University of Virginia <br />
+	B.A., Global Studies - Environments and Sustainability, University of Virginia</p>
 
-  <p> M.S. Civil Engineering, Georgia Tech <br />
-B.S. Civil Engineering, Wuhan University, China </p>
-
-  <p>Yaween is studying resilient infrastructure systems. His current work addresses the risk of flooding impacts to transportation infrastructure including bridges and culverts in particular. His current work is using 2D hydrodynamic models to simulate flooding in urban coastal environments. </p>
-</div>
-
-</div>
-</div>
-
-<div class="row">
-
-  <div class="col-sm-6 clearfix">   
-    <p><img src="teampic/zhu.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Ben Bowes</h4>
-    <p><i>Ph.D. Candidate<br />email: bdb3m@virginia.edu</i></p>
-
-    <p> M.E. Civil Engineering, University of Virginia <br />
-  B.S. Environmental Science, Virginia Wesleyan College </p>
-
-    <p>Ben is studying urban water infrastructure. His current research is on coastal flooding, real-time flood warning, and smart stormwater management. </p>
-  </div>
-
-  <div class="col-sm-6 clearfix">
-    <p><img src="teampic/Artuso.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Linnea Saby</h4>
-    <p><i>Ph.D. Candidate<br />email: ls3en@virginia.edu</i></p>
-
-    <p> M.E. Civil Engineering, University of Virginia <br />
-  B.A. Environmental Studies, Guilford </p>
-
-    <p>Linnea’s research is at the interface of water resources engineering, environmental science, data science, and policy. She is a School of Data Science Fellow and is co-advised with Prof. Larry Band. </p>
-  </div>
+  <p> Tyler was an undergraduate research assistant during his time with the VA Clean Energy Project, working with the Policy Research team on regulatory innovation. He now works as an Associate Utilitis Analyst at the Virginia State Corporation Commission (SCC). </p>
+ </div>
 
 </div>
 
 
+</div>
 
-<div class="container-fluid" >
-<div class="row">
-<div id="gridid" class="col-sm-12">
-<h2 id="current-team">Alumni</h2>
-
-
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
+     </div>
+   </div>
