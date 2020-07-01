@@ -26,6 +26,10 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+sass:
+  load_paths:
+    -_sass
+    - C:\Ruby26-x64\lib\ruby\gems\2.6.0\gems\bootstrap-4.3.1\assets\stylesheets
 exclude:
   - Gemfile
   - Gemfile.lock

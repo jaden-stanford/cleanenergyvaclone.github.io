@@ -19,7 +19,7 @@ To edit any of the main tabs of the website:
 All of the pages are written in markdown so that the information can be easily edited. There is some html for the homepage and team page for style elements (like the carousel).
 
 
-The team pictures and the images for the carousel on the homepage are all stored in the images folder.
+The team pictures are stored in the team folder under images. The carousel pictures are stored in the image folder under slider. 
 
 
 The main style sheet for this site is in assets/main.css.
