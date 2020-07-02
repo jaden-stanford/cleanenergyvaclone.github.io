@@ -4,6 +4,7 @@ title: Team
 permalink: /team/
 ---
 
+
 <div class="container-fluid">
      <div class="row">
        <div id="gridid" class="col-sm-12">
