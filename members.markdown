@@ -18,7 +18,7 @@ permalink: /team/
    <h4>Bill Shobe, Ph.D.</h4>
    <p><i>Director; Professor<br /> <a href="https://ceps.coopercenter.org/profile/william-shobe">Cooper Center webpage</a> </i></p>
 
-   <p> Ph.D., Economics, University of Minnesota</a> <br />
+   <p> Ph.D., Economics, University of Minnesota<br />
  J.D., Lewis and Clark School <br />
  B.A., Political Science, Vanderbilt University</p>
 
@@ -35,7 +35,7 @@ permalink: /team/
    <h4>Arthur Small, Ph.D.</h4>
    <p><i>Senior Research Scientist<br /> <a href="https://ceps.coopercenter.org/node/494006">Cooper Center webpage</a> </i></p>
 
-   <p> Ph.D., Agricultural and Resource Economics, University of California at Berkeley</a> <br />
+   <p> Ph.D., Agricultural and Resource Economics, University of California at Berkeley <br />
  M.S., Mathematics, Cornell University <br />
  A.B., Mathematics, Columbia University </p>
 
@@ -47,7 +47,7 @@ permalink: /team/
    <h4>Anthony Artuso, Ph.D.</h4>
    <p><i>Visiting Scholar<br /> <a href="https://ceps.coopercenter.org/profile/anthony-artuso">Cooper Center webpage</a> </i></p>
 
-   <p> Ph.D., Natural Resource Policy & Management, Cornell University</a> <br />
+   <p> Ph.D., Natural Resource Policy & Management, Cornell University<br />
  M.S., City and Regional Planning, Kennedy School of Government at Harvard University <br />
  B.S., Environmental Science, Columbia University </p>
 
@@ -64,7 +64,7 @@ permalink: /team/
    <h4>Roger Zhu</h4>
    <p><i>Doctoral Researcher<br /> <a href="https://www.linkedin.com/in/rogerzhuuva/">LinkedIn</a></i></p>
 
-   <p> Ph.D., Mechanical Engineering, University of Virginia</a> <br />
+   <p> Ph.D., Mechanical Engineering, University of Virginia<br />
  B.S., Mechanical Engineering, University of Virginia <br />
  B.A., Financial Mathematics, University of Virginia</p>
 
@@ -76,7 +76,7 @@ permalink: /team/
    <h4>Richard Liu</h4>
    <p><i>Graduate Research Intern<br /> <a href="">LinkedIn</a></i></p>
 
-   <p> M.S., Systems Engineering, University of Virginia </a> <br />
+   <p> M.S., Systems Engineering, University of Virginia  <br />
        B.S., Management Information Systems, Wuhan University<br /> </p>
 
    <p> Richard works with the Data Science team as well as the Policy Research team. His main focus is currently on the smart power contracting project, which is an integrated system intended to allow more efficient interaction between electricity prosumers and consumers. His research interests include data analytics and system design.  </p>
@@ -91,7 +91,7 @@ permalink: /team/
  <h4>Stephen Leff</h4>
  <p><i>Policy Analysis Team Member at Darden School of Business<br /> <a href="https://www.linkedin.com/in/stephenleff/">LinkedIn</a></i></p>
 
- <p> Global Executive MBA Candidate, Darden School of Business, UVA <br />
+ <p> Global Executive MBA Candidate, Darden School of Business, University of Virginia <br />
    MSE, Industrial and Systems Engineering, University of Washington <br />
      BSE, Industrial and Operations Engineering, University of Michigan<br /> </p>
 
@@ -103,7 +103,7 @@ permalink: /team/
 <h4>Alexander Gellerstedt</h4>
 <p><i>Graduate Intern at Batten School<br /> <a href="https://www.linkedin.com/in/alexander-gellerstedt-465997166/?trk=public_profile_browsemap_profile-result-card_result-card_full-click">LinkedIn</a></i></p>
 
-<p> M.P.P., Public Policy Analysis, University of Virginia </a> <br />
+<p> M.P.P., Public Policy Analysis, University of Virginia <br />
    B.S., Economics, Business, University of Virginia<br /> </p>
 
 <p> Alexander is a member of the Policy Research team. He is currently working on state summaries of clean energy practices for team reports. </p>
@@ -167,7 +167,7 @@ permalink: /team/
     <h4>Jamison Stevens</h4>
     <p><i>Undergraduate Research Assistant<br /> <a href="https://www.linkedin.com/in/jamisonstevens/">LinkedIn</a></i></p>
 
-      <p> B.S, Electrical Engineering, University of Virginia</a> <br />
+      <p> B.S, Electrical Engineering, University of Virginia <br />
           B.A, Economics, University of Virginia <br /> </p>
 
     <p> Jamison is a member of the Data Science team and Policy Research team. He works on data and analytics, the publications process, and community solar policy. </p>
@@ -338,7 +338,7 @@ B.A., Psychology, University of Virginia</p>
     <h4>Mai Luu</h4>
     <p><i>Undergraduate Research Assistant<br /> <a href="">LinkedIn</a></i></p>
 
-    <p> B.S., Systems Engineering, University of Virginia</a> <br />
+    <p> B.S., Systems Engineering, University of Virginia <br />
         A.S., Engineering, Northern Virginia Community College<br /> </p>
 
     <p> Mai is a member of the Data Science team. She mainly contributes to team data management projects. </p>
@@ -370,10 +370,15 @@ B.A., Psychology, University of Virginia</p>
   </div>
 
   <div class="col-sm-6 clearfix">
-    <p><img src="images/teampic/placeholder.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+    <p><img src="images/teampic/Hill.JPG" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>David Hill</h4>
-    <p><i>Graduate Research Intern<br /> <a href="">LinkedIn</a></i></p>
+    <p><i>Graduate Research Intern<br /> <a href="https://www.linkedin.com/in/david-hill-jr-b22b96127">LinkedIn</a></i></p>
 
+    <p> M.E., Systems Engineering, University of Virginia <br />
+        B.S., Computer Science, Howard University <br /> </p>
+
+
+<p> David is a member of the Data Science team. He focuses on the team research project for energy systems modeling, involving Temoa implementation for Virginia. </p>
 
   </div>
 
@@ -382,9 +387,13 @@ B.A., Psychology, University of Virginia</p>
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="images/teampic/placeholder.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+    <p><img src="images/teampic/Feeney.JPG" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Allison Feeney</h4>
-    <p><i>Undergraduate Research Intern<br /> <a href="">LinkedIn</a></i></p>
+    <p><i>Undergraduate Research Intern<br /> <a href="https://www.linkedin.com/in/mary-allison-feeney/ ">LinkedIn</a></i></p>
+
+    <p> B.S., Chemical Engineering, University of Virginia </p>
+
+        <p> Allison is a member of the Policy Research team. She contributes to the state summary projects and will also  research energy storage policies. </p>
 
  </div>
 
@@ -400,7 +409,7 @@ B.A., Psychology, University of Virginia</p>
   <p><img src="images/teampic/Aycock.JPG" class="img-responsive" width="25%" style="float: left" /></p>
   <h4>Daniel Aycock</h4>
   <p><i>Associate, CustomerFirst Renewables<br /> <a href="https://www.linkedin.com/in/danielaycock/">LinkedIn</a></i></p>
-  <p> MBA, Darden School of Business, University of Virginia </a> <br />
+  <p> MBA, Darden School of Business, University of Virginia <br />
 Master of Accountancy, University of Tennessee<br />
 B.S., Business Administration, University of Tennessee</p>
 
