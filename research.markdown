@@ -4,6 +4,7 @@ title: Research
 permalink: /research/
 ---
 ## Research Interests
+***
 
 The Virginia Clean Energy Project involves creating strategies and analysis for decarbonization of energy systems. The primary focus is on Virginia, which recently adopted legislation committing the state to a complete phase-out of carbon-emitting sources from its power generation system by 2050.
 

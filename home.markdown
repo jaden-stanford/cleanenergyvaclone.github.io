@@ -6,6 +6,7 @@ sitemap: false
 permalink: /
 ---
 ## About VA Clean Energy
+***
 
 We are a team of researchers at the University of Virginia Weldon Cooper Center for Public Service exploring options in clean energy sourcing in response to new legislation mandating net carbon emission neutrality in Virginia by 2050.
 

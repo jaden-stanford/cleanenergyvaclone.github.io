@@ -4,6 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 ## Projects
+***
 
 Below are selected current and past research projects that are representative of our group's work. The links to their respective GitHub repositories are included.
 

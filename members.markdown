@@ -7,174 +7,391 @@ permalink: /team/
 <div class="container-fluid">
      <div class="row">
        <div id="gridid" class="col-sm-12">
- <h3>Team Members</h3>
+ <h2>Team Members</h2>
+ <hr>
 
 <div class="row">
 
- <div class="col-sm-6 clearfix">
-   <p><img src="/images/teampic/goodall.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-   <h4>Jonathan L. Goodall, Ph.D., P.E.</h4>
-   <p><i>Professor<br />email: goodall@virginia.edu <br /> <a href="https://engineering.virginia.edu/faculty/jonathan-l-goodall">University webpage</a> </i></p>
+<div class="col-sm-6 clearfix">
+   <p><img src="images/teampic/Shobe.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+   <h4>Bill Shobe, Ph.D.</h4>
+   <p><i>Director; Professor<br /> <a href="https://ceps.coopercenter.org/profile/william-shobe">Cooper Center webpage</a> </i></p>
 
-   <p> Ph.D., Civil Engineering, University of Texas at Austin, 2005, Adviser <a href="http://www.caee.utexas.edu/prof/maidment/CAEE/maidment.htm">David R. Maidment</a> <br />
- MS, Civil Engineering, University of Texas at Austin, 2003 <br />
- BS, Civil Engineering, University of Virginia, 2001 </p>
+   <p> Ph.D., Economics, University of Minnesota</a> <br />
+ J.D., Lewis and Clark School <br />
+ B.A., Political Science, Vanderbilt University</p>
 
-   <p>Professor Goodall directs the UVA Hydroinformatics Research Group and is a faculty member in the Department of Engineering Systems &amp; Environment with a courtesy appointment in Computer Science. He is also serves as the Associate Director of the <a href="http://linklab.virginia.edu">UVA Link Lab</a>. </p>
- </div>
-
- <div class="col-sm-6 clearfix">
-   <p><img src="/images/teampic/Yawen-1.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-   <h4>Yawen Shen</h4>
-   <p><i>Ph.D. Candidate<br />email: ys5dv@virginia.edu</i></p>
-
-   <p> M.S. Civil Engineering, Georgia Tech <br />
- B.S. Civil Engineering, Wuhan University, China </p>
-
-   <p>Yaween is studying resilient infrastructure systems. His current work addresses the risk of flooding impacts to transportation infrastructure including bridges and culverts in particular. His current work is using 2D hydrodynamic models to simulate flooding in urban coastal environments. </p>
+   <p> Professor Shobe is the director of the VA Clean Energy Project, and the director of the Center for Economic and Policy Studies at the UVA Weldon Cooper Center for Public Service. His current research includes emission market and auction design, environmental federalism, improved economic modeling of Virginia’s economy, state economic development incentives, and state economic forecasting.</p>
  </div>
 
 </div>
 
 <div class="row">
 
+
  <div class="col-sm-6 clearfix">
-   <p><img src="/images/teampic/bowes-1.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-   <h4>Ben Bowes</h4>
-   <p><i>Ph.D. Candidate<br />email: bdb3m@virginia.edu</i></p>
+   <p><img src="images/teampic/small.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+   <h4>Arthur Small, Ph.D.</h4>
+   <p><i>Senior Research Scientist<br /> <a href="https://ceps.coopercenter.org/node/494006">Cooper Center webpage</a> </i></p>
 
-   <p> M.E. Civil Engineering, University of Virginia <br />
- B.S. Environmental Science, Virginia Wesleyan College </p>
+   <p> Ph.D., Agricultural and Resource Economics, University of California at Berkeley</a> <br />
+ M.S., Mathematics, Cornell University <br />
+ A.B., Mathematics, Columbia University </p>
 
-   <p>Ben is studying urban water infrastructure. His current research is on coastal flooding, real-time flood warning, and smart stormwater management. </p>
+   <p>Professor Small directs the Data & Analytics research team for the VA Clean Energy Project. He is a Senior Research Scientist at the University of Virginia's Weldon Cooper Center for Public Service, working as an economist and decision scientist specializing in issues of energy, climate, and environment. </p>
  </div>
 
  <div class="col-sm-6 clearfix">
-   <p><img src="/images/teampic/saby.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-   <h4>Linnea Saby</h4>
-   <p><i>Ph.D. Candidate<br />email: ls3en@virginia.edu</i></p>
+   <p><img src="images/teampic/Artuso.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+   <h4>Anthony Artuso, Ph.D.</h4>
+   <p><i>Visiting Scholar<br /> <a href="https://ceps.coopercenter.org/profile/anthony-artuso">Cooper Center webpage</a> </i></p>
 
-   <p> M.E. Civil Engineering, University of Virginia <br />
- B.A. Environmental Studies, Guilford </p>
+   <p> Ph.D., Natural Resource Policy & Management, Cornell University</a> <br />
+ M.S., City and Regional Planning, Kennedy School of Government at Harvard University <br />
+ B.S., Environmental Science, Columbia University </p>
 
-   <p>Linnea’s research is at the interface of water resources engineering, environmental science, data science, and policy. She is a School of Data Science Fellow and is co-advised with Prof. Larry Band. </p>
+   <p>Dr. Artuso directs the Policy Research team for the VA Clean Energy Project. He is a Visiting Scholar at the University of Virginia's Weldon Cooper Center for Public Service. </p>
  </div>
+
 
 </div>
 
 <div class="row">
 
  <div class="col-sm-6 clearfix">
-   <p><img src="/images/teampic/chen.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-   <h4>Alex Chen</h4>
-   <p><i>Ph.D. Candidate<br />email: abc8fq@virginia.edu</i></p>
+   <p><img src="images/teampic/Zhu.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+   <h4>Roger Zhu</h4>
+   <p><i>Doctoral Researcher<br /> <a href="https://www.linkedin.com/in/rogerzhuuva/">LinkedIn</a></i></p>
 
-   <p> M.S. Bioenvironmental Systems Engineering, National Taiwan University, Taiwan <br />
- B.S. Hydraulic and Ocean Engineering, National Cheng Kung University, Taiwan </p>
+   <p> Ph.D., Mechanical Engineering, University of Virginia</a> <br />
+ B.S., Mechanical Engineering, University of Virginia <br />
+ B.A., Financial Mathematics, University of Virginia</p>
 
-   <p>Alex is researching smart stormwater management for coastal communities. He has been investigating the use of crowdsourcing, in particular Personal Weather Stations (PWS), for capturing rainfall during extreme weather events in Norfolk, VA. </p>
+   <p> Roger is a member of the Data Science team as well as the Policy Research team. He focuses mainly on the team research project for energy systems modeling, involving Temoa implementation for Virginia.  </p>
  </div>
 
  <div class="col-sm-6 clearfix">
-   <p><img src="/images/teampic/choi.png" class="img-responsive" width="25%" style="float: left" /></p>
-   <h4>Youngdon Choi</h4>
-   <p><i>Ph.D Candidate<br />email: yc5ef@virginia.edu</i></p>
+   <p><img src="images/teampic/Liu.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+   <h4>Richard Liu</h4>
+   <p><i>Graduate Research Intern<br /> <a href="">LinkedIn</a></i></p>
 
-   <p> M.S. Civil Engineering, Pusan National University, Republic of Korea <br />
- B.S. Civil Engineering, Pusan National University, Republic of Korea </p>
+   <p> M.S., Systems Engineering, University of Virginia </a> <br />
+       B.S., Management Information Systems, Wuhan University<br /> </p>
 
-   <p>Choi is working on the HydroShare project and is currently building the pySUMMA library for the SUMMA hydrologic model. </p>
+   <p> Richard works with the Data Science team as well as the Policy Research team. His main focus is currently on the smart power contracting project, which is an integrated system intended to allow more efficient interaction between electricity prosumers and consumers. His research interests include data analytics and system design.  </p>
  </div>
 
 </div>
 
 <div class="row">
 
+<div class="col-sm-6 clearfix">
+ <p><img src="images/teampic/Leff.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+ <h4>Stephen Leff</h4>
+ <p><i>Policy Analysis Team Member at Darden School of Business<br /> <a href="https://www.linkedin.com/in/stephenleff/">LinkedIn</a></i></p>
+
+ <p> Global Executive MBA Candidate, Darden School of Business, UVA <br />
+   MSE, Industrial and Systems Engineering, University of Washington <br />
+     BSE, Industrial and Operations Engineering, University of Michigan<br /> </p>
+
+ <p> Stephen is a member of the Policy Research team. He works as a Senior Systems Engineer for BWX Technologies  </p>
+</div>
+
  <div class="col-sm-6 clearfix">
-   <p><img src="/images/teampic/maghami.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-   <h4>Iman Maghami</h4>
-   <p><i>Ph.D. Candidate<br />email: im3vp@virginia.edu</i></p>
+<p><img src="images/teampic/Gellerstedt.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+<h4>Alexander Gellerstedt</h4>
+<p><i>Graduate Intern at Batten School<br /> <a href="https://www.linkedin.com/in/alexander-gellerstedt-465997166/?trk=public_profile_browsemap_profile-result-card_result-card_full-click">LinkedIn</a></i></p>
+
+<p> M.P.P., Public Policy Analysis, University of Virginia </a> <br />
+   B.S., Economics, Business, University of Virginia<br /> </p>
+
+<p> Alexander is a member of the Policy Research team. He is currently working on state summaries of clean energy practices for team reports. </p>
+</div>
+
+</div>
+
+<div class="row">
+
+ <div class="col-sm-6 clearfix">
+   <p><img src="images/teampic/Watkins.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+   <h4>Alex Watkins</h4>
+   <p><i>Graduate Assistant at the Weldon Cooper Center for Public Service <br /></i></p>
 
    <p> M.S. Civil Engineering, University of Tehran, Iran <br />
  B.S. Civil Engineering, Sharif University, Iran </p>
 
-   <p>Iman is working on using power harvesting and dynamic power management for smart water monitoring in flooding and water quality applications. </p>
+   <p>Alex is a member of the Data Science team. He is currently working on a report on how Virginia can best take advantage of a smarter grid to complete its transition to zero carbon emissions. The report also includes research on current smart grid use as well as Dominion's current plans on smart grid use. </p>
  </div>
 
  <div class="col-sm-6 clearfix">
-   <p><img src="/images/teampic/zahura.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-   <h4>Faria Zahura</h4>
-   <p><i>Ph.D. Candidate<br />email: fz7xb@virginia.edu</i></p>
+ <p><img src="images/teampic/Weidenfeller.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+  <h4>Emily Weidenfeller</h4>
+  <p><i>Graduate Research Intern<br /> <a href="">LinkedIn</a></i></p>
 
-   <p>B.S. Civil Engineering, Bangladesh University of Engineering and Technology (BUET) </p>
+      <p> B.S., Aerospace Engineering, University of Colorado at Boulder </p>
 
-   <p>Faria is applying data science approaches to better understanding transportation disruptions due to flooding. Her work is focused on the Hampton Roads region of Virginia. </p>
+  <p> Emily is a member of the Data Science team and publications process. She works on data management as well as the Virginia Electricity Almanac. </p>
  </div>
 
 </div>
 
 <div class="row">
 
- <div class="col-sm-6 clearfix">
-   <p><img src="/images/teampic/nelson.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-   <h4>Jake Nelson</h4>
-   <p><i>Ph.D. Student<br />email: jn8vc@virginia.edu</i></p>
+  <div class="col-sm-6 clearfix">
+    <p><img src="images/teampic/Awashti.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Neha Awasthi</h4>
+    <p><i>Undergraduate Research Assistant<br /> <a href="">LinkedIn</a></i></p>
 
-   <p> M.S. CEE, Brigham Young University <br />
- B.S. CEE, Brigham Young Univeristy </p>
+    <p> B.S., Civil and Environmental Engineering, University of Virginia </p>
 
-   <p>Jake is part of the Cyber-Physical Systems NRT program and his research is focusing on smart stormwater systems. </p>
- </div>
+    <p> Neha is a member of the Data Science team. She works primarily on tasks in data visualization for parts of the team project, as well as on the states dashboard project.  </p>
+  </div>
 
- <div class="col-sm-6 clearfix">
-   <p><img src="/images/teampic/lerma.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-   <h4>Natalie Lerma</h4>
-   <p><i>Ph.D. Student<br />email: nrl5fh@virginia.edu</i></p>
+  <div class="col-sm-6 clearfix">
+    <p><img src="images/teampic/Brandberg.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Jackson Brandberg</h4>
+    <p><i>Undergraduate Research Assistant<br /> <a href="https://www.linkedin.com/in/jackson-brandberg-aaab1613b/">LinkedIn</a></i></p>
 
-   <p>B.S. Ocean Engineering, Texas A&amp;M University - Galveston </p>
+    <p> B.A., Global/International Studies, University of Virginia </p>
 
-   <p>Natalie is part of the Cyber-Physical Systems NRT program and her research is focusing on coastal flooding. </p>
- </div>
-
-</div>
-
-<div class="row">
-
- <div class="col-sm-6 clearfix">
-   <p><img src="/images/teampic/yang.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-   <h4>Xiafei Yang</h4>
-   <p><i>M.S. Student<br />email: xy2wf@virginia.edu</i></p>
-
-   <p>B.S. Electrical Engineering and B.A. Physics, University of Virginia </p>
-
-   <p>Xiafei is studying smart stormwater system, incorporated with the idea of Internet of Things (IoT) and cyber-physical systems (CPS), to monitor and control moisture content at bioretention basins through long-distance wireless communication network. </p>
- </div>
-
- <div class="col-sm-6 clearfix">
-   <p><img src="/images/teampic/Allen.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-   <h4>Sean Allen</h4>
-   <p><i>M.E. Student<br />email: </i></p>
-
-   <p>B.S., Civil and Environmental Engineering </p>
-
-   <p>Sean explored the Things Network as a way to connect smart devices for stormwater monitoring. </p>
- </div>
+    <p>Jackson is a member of the Data Science team. He works on the team dashboards, team data management, and geospatial data projects. </p>
+  </div>
 
 </div>
 
 <div class="row">
 
- <div class="col-sm-6 clearfix">
-   <p><img src="/images/teampic/johnson.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-   <h4>Naomi Johnson</h4>
-   <p><i>B.A. Student - Computer Science<br />email: snj3k@virginia.edu</i></p>
+  <div class="col-sm-6 clearfix">
+    <p><img src="images/teampic/Stevens.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Jamison Stevens</h4>
+    <p><i>Undergraduate Research Assistant<br /> <a href="https://www.linkedin.com/in/jamisonstevens/">LinkedIn</a></i></p>
 
-   <p>Naomi is using image segmentation in order to identify the areal extent and depth of flood waters. </p>
+      <p> B.S, Electrical Engineering, University of Virginia</a> <br />
+          B.A, Economics, University of Virginia <br /> </p>
+
+    <p> Jamison is a member of the Data Science team and Policy Research team. He works on data and analytics, the publications process, and community solar policy. </p>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="images/teampic/Zhong.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Christina Zhong</h4>
+    <p><i>Undergraduate Research Assistant<br /> <a href="">LinkedIn</a></i></p>
+
+    <p>Christina is a member of the Data Science team. She contributes to the team dashboards, as well as data management and geospatial data projects. </p>
+  </div>
+
+</div>
+
+<div class="row">
+
+<div class="col-sm-6 clearfix">
+  <p><img src="images/teampic/Coppins.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+  <h4>Lauren Coppins</h4>
+  <p><i>Undergraduate Research Assistant<br /> <a href="https://www.linkedin.com/in/lauren-coppins-045857195/">LinkedIn</a></i></p>
+
+              <p> B.S., Commerce, University of Virginia </p>
+
+  <p> Lauren is a member of the Data Science team. She works primarily on data visualization projects for the various team dashboards. </p>
+</div>
+
+<div class="col-sm-6 clearfix">
+  <p><img src="images/teampic/Neale.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+  <h4>Caleb Neale</h4>
+  <p><i>Undergraduate Research Assistant<br /> <a href="https://www.linkedin.com/in/calebneale/">LinkedIn</a></i></p>
+
+  <p> B.S., Systems & Information Engineering, University of Virginia </p>
+
+  <p> Caleb is a member of the Data Science team. He works primarily on maintaining the team dashboards.  </p>
+</div>
+
+
+</div>
+
+<div class="row">
+
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="images/teampic/Brenman.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>David Brenman</h4>
+    <p><i>Undergraduate Research Assistant<br /> <a href="https://www.linkedin.com/in/david-brenman/">LinkedIn</a></i></p>
+
+            <p> B.S., Systems Engineering, University of Virginia <br />
+	  B.A., Economics, University of Virginia</p>
+
+    <p> David works with the Data Science and Policy Research team. He is currently working on researching Virginia's power grid and conducting analysis on its transmission & distribution system. He also helps pull data from the team database.  </p>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="images/teampic/pathange.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Aishvarya Pathange</h4>
+    <p><i>Undergraduate Research Assistant<br /> <a href="https://www.linkedin.com/in/aishvarya-pathange/">LinkedIn</a></i></p>
+
+    <p> B.S., Economics, University of Virginia <br />
+B.A., Psychology, University of Virginia</p>
+
+    <p> Aishvarya is a member of the Data Science team, working mainly on data visualization projects. Currently, she is creating various graphics for capacity factor data for team dashboards.</p>
+
+</div>
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="images/teampic/placeholder.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Ethan Novak</h4>
+    <p><i>Undergraduate Research Assistant<br /> <a href="">LinkedIn</a></i></p>
+
+    <p> Ethan works with the Data Science team as well as the Policy Research team. He contributes to team cloud services as well as team dashboards. He also works on energy systems modeling. </p>
+  </div>
+
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="images/teampic/Snell.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Harrison Snell</h4>
+	  <p><i>Undergraduate Research Assistant<br /> <a href="https://www.linkedin.com/in/harrison-snell-324a23187/">LinkedIn</a></i></p>
+
+      <p> B.A., Economics, University of Virginia <br />
+	  B.A., Mathematics, University of Virginia</p>
+
+    <p>Harrison is a member of the Policy Research team. He is working on compiling summaries of legislation and policies for other clean energy states. He is also researching Virginia's transmission grid to explore how it will need to be modified to meet the demands of renewable energy production. </p>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="images/teampic/Lee.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Brian Lee</h4>
+    <p><i>Undergraduate Research Assistant<br /> <a href="">LinkedIn</a></i></p>
+
+    <p> B.A., Economics, University of Virginia </p>
+
+    <p> Brian is a member of the Data Science team. He collects datasets in order to be used within the team database. He also helps to organize and clean datasets, as well as to write scripts to pull needed information. </p>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="images/teampic/Freitas.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Alexis Freitas</h4>
+    <p><i>Undergraduate Research Assistant<br /> <a href="">LinkedIn</a></i></p>
+
+    <p> Alexis is a member of the Data Science team. She works primarily on the team dashbords and data visualization projects. </p>
+  </div>
+
+
+</div>
+
+<div class="row">
+
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="images/teampic/Frothingham.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Elinor Frothingham</h4>
+    <p><i>Undergraduate Research Assistant<br /> <a href="https://www.linkedin.com/in/elinorfrothingham/">LinkedIn</a></i></p>
+
+        <p> B.S., Commerce, University of Virginia </p>
+
+    <p> Elinor is a member of the Data Science team and a part of the publications project. She is responsible for telling the story of the VA Clean Energy Project through content creation and manages the sharing of content with the UVA Weldon Cooper Center for Public Service and other outlets. </p>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="images/teampic/Stanford.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Jaden Stanford</h4>
+    <p><i>Undergraduate Research Assistant<br /> <a href="https://www.linkedin.com/in/jaden-s-190443129/">LinkedIn</a></i></p>
+
+    <p> B.S. Biomedical Engineering, University of Virginia </p>
+
+    <p> Jaden is a member of the Data Science team. She works primarily on the publications process in constructing and updating the code on GitHub for the VA Clean Energy team website. </p>
+  </div>
+
+  </div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="images/teampic/placeholder.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Hannah Boyles</h4>
+    <p><i>Undergraduate Research Assistant<br /> <a href="">LinkedIn</a></i></p>
+
+    <p> B.S., Aerospace Engineering, University of Virginia </p>
+
+    <p> Hannah works mainly with the Policy Research team. She is currently working on state summaries of renewable energy policies, as well as a summary for the U.K in order to gain insight for the team on international energy policies. She also contributes to team research and reports on energy equity. </p>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="images/teampic/placeholder.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Chloe Fauvel</h4>
+    <p><i>Undergraduate Research Assistant<br /> <a href="">LinkedIn</a></i></p>
+
+    <p> B.S., Systems Engineering, University of Virginia </p>
+
+    <p> Chloe is a member of the Data Science team. She currently acts as the team database administrator, making sure data tables and github code writing to the database is clean and consistent. She will also oversee geospatial data addition to the database.</p>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="images/teampic/Luu.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Mai Luu</h4>
+    <p><i>Undergraduate Research Assistant<br /> <a href="">LinkedIn</a></i></p>
+
+    <p> B.S., Systems Engineering, University of Virginia</a> <br />
+        A.S., Engineering, Northern Virginia Community College<br /> </p>
+
+    <p> Mai is a member of the Data Science team. She mainly contributes to team data management projects. </p>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="images/teampic/placeholder.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Sarah Benda</h4>
+    <p><i>Undergraduate Research Assistant<br /> <a href="">LinkedIn</a></i></p>
+
+    <p> B.S., Economics and Global Sustainability, University of Virginia </p>
+
+    <p> Sarah is a member of the Policy Research team.  She is currently working on a report analyzing the soft costs of distribute d solar power as well as identifying the best practices for soft cost reduction. </p>
+  </div>
+
+  </div>
+
+<div class="row">
+
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="images/teampic/Groscup.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Charles Groscup</h4>
+    <p><i>Undergraduate Intern at Center for Economic and Policy Studies<br /> <a href="">LinkedIn</a></i></p>
+
+      <p> B.S., Economics, University of Virginia </p>
+
+    <p> Charles is a member of the Policy Research team. He is currently working on compiling state summaries regarding different clean energy policies and initiatives for the State Energy Dashboard. </p>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="images/teampic/placeholder.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>David Hill</h4>
+    <p><i>Graduate Research Intern<br /> <a href="">LinkedIn</a></i></p>
+
+
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="images/teampic/placeholder.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Allison Feeney</h4>
+    <p><i>Undergraduate Research Intern<br /> <a href="">LinkedIn</a></i></p>
+
  </div>
 
 </div>
 
-<h3 id="alumni">Alumni</h3>
+
+<h2 id="alumni">Alumni</h2>
+ <hr>
 
 <div class="row">
 
