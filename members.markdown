@@ -33,7 +33,7 @@ permalink: /team/
  <div class="col-sm-6 clearfix">
    <p><img src="images/teampic/small.jpg" class="img-responsive" width="25%" style="float: left" /></p>
    <h4>Arthur Small, Ph.D.</h4>
-   <p><i>Senior Research Scientist<br /> <a href="https://ceps.coopercenter.org/node/494006">Cooper Center webpage</a> </i></p>
+   <p><i>Senior Research Scientist; Team Lead, Data Science<br /> <a href="https://ceps.coopercenter.org/node/494006">Cooper Center webpage</a> </i></p>
 
    <p> Ph.D., Agricultural and Resource Economics, University of California at Berkeley <br />
  M.S., Mathematics, Cornell University <br />
@@ -45,7 +45,7 @@ permalink: /team/
  <div class="col-sm-6 clearfix">
    <p><img src="images/teampic/Artuso.JPG" class="img-responsive" width="25%" style="float: left" /></p>
    <h4>Anthony Artuso, Ph.D.</h4>
-   <p><i>Visiting Scholar<br /> <a href="https://ceps.coopercenter.org/profile/anthony-artuso">Cooper Center webpage</a> </i></p>
+   <p><i>Visiting Scholar; Team Lead, Policy Analysis <br /> <a href="https://ceps.coopercenter.org/profile/anthony-artuso">Cooper Center webpage</a> </i></p>
 
    <p> Ph.D., Natural Resource Policy & Management, Cornell University<br />
  M.S., City and Regional Planning, Kennedy School of Government at Harvard University <br />
@@ -125,6 +125,24 @@ permalink: /team/
  </div>
 
  <div class="col-sm-6 clearfix">
+   <p><img src="images/teampic/Hill.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+   <h4>David Hill</h4>
+   <p><i>Graduate Research Intern<br /> <a href="https://www.linkedin.com/in/david-hill-jr-b22b96127">LinkedIn</a></i></p>
+
+   <p> M.E., Systems Engineering, University of Virginia <br />
+       B.S., Computer Science, Howard University <br /> </p>
+
+
+<p> David is a member of the Data Science team. He focuses on the team research project for energy systems modeling, involving Temoa implementation for Virginia. </p>
+
+</div>
+
+</div>
+
+<div class="row">
+
+
+ <div class="col-sm-6 clearfix">
  <p><img src="images/teampic/Weidenfeller.JPG" class="img-responsive" width="25%" style="float: left" /></p>
   <h4>Emily Weidenfeller</h4>
   <p><i>Graduate Research Intern<br /> <a href="">LinkedIn</a></i></p>
@@ -134,6 +152,14 @@ permalink: /team/
   <p> Emily is a member of the Data Science team and publications process. She works on data management as well as the Virginia Electricity Almanac. </p>
  </div>
 
+ <div class="col-sm-6 clearfix">
+   <p><img src="images/teampic/Zhong.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+   <h4>Christina Zhong</h4>
+   <p><i>Undergraduate Research Assistant<br /> <a href="">LinkedIn</a></i></p>
+
+   <p>Christina is a member of the Data Science team. She contributes to the team dashboards, as well as data management and geospatial data projects. </p>
+
+</div>
 </div>
 
 <div class="row">
@@ -174,11 +200,13 @@ permalink: /team/
   </div>
 
   <div class="col-sm-6 clearfix">
-    <p><img src="images/teampic/Zhong.JPG" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Christina Zhong</h4>
+    <p><img src="images/teampic/Freitas.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Alexis Freitas</h4>
     <p><i>Undergraduate Research Assistant<br /> <a href="">LinkedIn</a></i></p>
 
-    <p>Christina is a member of the Data Science team. She contributes to the team dashboards, as well as data management and geospatial data projects. </p>
+    <p> Alexis is a member of the Data Science team. She works primarily on the team dashbords and data visualization projects. </p>
+
+
   </div>
 
 </div>
@@ -272,11 +300,14 @@ B.A., Psychology, University of Virginia</p>
   </div>
 
   <div class="col-sm-6 clearfix">
-    <p><img src="images/teampic/Freitas.JPG" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Alexis Freitas</h4>
+    <p><img src="images/teampic/Luu.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Mai Luu</h4>
     <p><i>Undergraduate Research Assistant<br /> <a href="">LinkedIn</a></i></p>
 
-    <p> Alexis is a member of the Data Science team. She works primarily on the team dashbords and data visualization projects. </p>
+    <p> B.S., Systems Engineering, University of Virginia <br />
+        A.S., Engineering, Northern Virginia Community College<br /> </p>
+
+    <p> Mai is a member of the Data Science team. She mainly contributes to team data management projects. </p>
   </div>
 
 
@@ -334,17 +365,6 @@ B.A., Psychology, University of Virginia</p>
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="images/teampic/Luu.JPG" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Mai Luu</h4>
-    <p><i>Undergraduate Research Assistant<br /> <a href="">LinkedIn</a></i></p>
-
-    <p> B.S., Systems Engineering, University of Virginia <br />
-        A.S., Engineering, Northern Virginia Community College<br /> </p>
-
-    <p> Mai is a member of the Data Science team. She mainly contributes to team data management projects. </p>
-  </div>
-
-  <div class="col-sm-6 clearfix">
     <p><img src="images/teampic/placeholder.JPG" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Sarah Benda</h4>
     <p><i>Undergraduate Research Assistant<br /> <a href="">LinkedIn</a></i></p>
@@ -353,11 +373,6 @@ B.A., Psychology, University of Virginia</p>
 
     <p> Sarah is a member of the Policy Research team.  She is currently working on a report analyzing the soft costs of distribute d solar power as well as identifying the best practices for soft cost reduction. </p>
   </div>
-
-  </div>
-
-<div class="row">
-
 
   <div class="col-sm-6 clearfix">
     <p><img src="images/teampic/Groscup.JPG" class="img-responsive" width="25%" style="float: left" /></p>
@@ -369,22 +384,11 @@ B.A., Psychology, University of Virginia</p>
     <p> Charles is a member of the Policy Research team. He is currently working on compiling state summaries regarding different clean energy policies and initiatives for the State Energy Dashboard. </p>
   </div>
 
-  <div class="col-sm-6 clearfix">
-    <p><img src="images/teampic/Hill.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>David Hill</h4>
-    <p><i>Graduate Research Intern<br /> <a href="https://www.linkedin.com/in/david-hill-jr-b22b96127">LinkedIn</a></i></p>
-
-    <p> M.E., Systems Engineering, University of Virginia <br />
-        B.S., Computer Science, Howard University <br /> </p>
-
-
-<p> David is a member of the Data Science team. He focuses on the team research project for energy systems modeling, involving Temoa implementation for Virginia. </p>
-
   </div>
 
-</div>
-
 <div class="row">
+
+
 
   <div class="col-sm-6 clearfix">
     <p><img src="images/teampic/Feeney.JPG" class="img-responsive" width="25%" style="float: left" /></p>
