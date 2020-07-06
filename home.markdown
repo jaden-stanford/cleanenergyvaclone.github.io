@@ -36,7 +36,7 @@ We are a team of researchers at the University of Virginia Weldon Cooper Center 
             <img src="images/slider/windandsolar.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="images/slider/options.jpg" alt="Slide 4" />
+            <img src="images/slider/cvow2.jpg" alt="Slide 4" />
         </div>
         <div class="item">
             <img src="images/slider/renewable.jpg" alt="Slide 5" />
