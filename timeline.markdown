@@ -8,6 +8,15 @@ permalink: /timeline/
 
 <br/>
 
+_**July 5, 2020**_. The 4 major energy companies involved in planning for the Atlantic Coast Pipeline decide to [cancel the project](https://www.nytimes.com/2020/07/05/business/atlantic-coast-pipeline-cancel-dominion-energy-berkshire-hathaway.html) ,originally proposed 6 years ago. This was due to increased delays for the construction of the pipeline, caused by legal uncertainties and increasing costs. This comes as a relief to many communities that would've been negatively affected, as well as to environmentalists concerned about the impact on the natural areas surrounding the pipeline's proposed path.
+
+* * *
+<br/>
+
+_**June 15, 2020**_. The Supreme Court [rules on a case](https://www.washingtonpost.com/politics/courts_law/supreme-court-removes-major-obstacle-to-atlantic-coast-pipeline-a-long-delayed-project-crossing-central-virginia/2020/06/15/d0f6529c-ab52-11ea-9063-e69bd6520940_story.html) that removes a major obstacle causing delays in construction of the [Atlantic Coast Pipeline](https://atlanticcoastpipeline.com/news/2020/7/5/dominion-energy-and-duke-energy-cancel-the-atlantic-coast-pipeline.aspx). There was disagreement over the pipeline crossing under the Appalachian Trial in the George Washington National Forest, but the Supreme Court ruled that the U.S. Forest Service can grant the pipeline right of way under the trail.
+
+* * *
+<br/>
 
 _**May 1, 2020**_. Dominion Energy releases its [2020 Integrated Resource Plan.](https://www.dominionenergy.com/library/domcom/media/about-us/making-energy/2020-va-integrated-resource-plan.pdf?modified=20200501191108) This covers the 15 year period from 2021-2035\. Unlike the previous IRP, this one establishes a company-wide commitment to achieve net zero carbon dioxide and methane emissions by 2050.
 
@@ -93,6 +102,8 @@ _**February 24, 2015**_. Virginia approves an act to [amend and reenact the _Ele
 
 * * *
 <br/>
+
+_**September 2, 2014**_. D
 
 _**August 31, 2012**_. Dominion Energy files its [2012 Integrated Resource Plan](https://www.transmissionhub.com/wp-content/uploads/2018/12/Dominion-2012-IRP-1.pdf) for the Virginia SCC and the North Carolina Utilities Company. It mainly addresses changes the company will make to accommodate growing electric power needs from customers in a cost-effective manner. It does however introduce a potential plan with some renewable resources.
 
