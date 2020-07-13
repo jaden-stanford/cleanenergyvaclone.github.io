@@ -8,7 +8,7 @@ permalink: /timeline/
 
 <br/>
 
-_**July 5, 2020**_. The 4 major energy companies involved in planning for the Atlantic Coast Pipeline decide to [cancel the project](https://www.nytimes.com/2020/07/05/business/atlantic-coast-pipeline-cancel-dominion-energy-berkshire-hathaway.html) ,originally proposed 6 years ago. This was due to increased delays for the construction of the pipeline, caused by legal uncertainties and increasing costs. This comes as a relief to many communities that would've been negatively affected, as well as to environmentalists concerned about the impact on the natural areas surrounding the pipeline's proposed path.
+_**July 5, 2020**_. The 4 major energy companies involved in planning for the Atlantic Coast Pipeline decide to [cancel the project](https://www.nytimes.com/2020/07/05/business/atlantic-coast-pipeline-cancel-dominion-energy-berkshire-hathaway.html), originally proposed 6 years ago. This was due to increased delays for the construction of the pipeline, caused by legal uncertainties and increasing costs. This comes as a relief to many communities that would've been negatively affected, as well as to environmentalists concerned about the impact on the natural areas surrounding the pipeline's proposed path.
 
 * * *
 <br/>
@@ -103,7 +103,10 @@ _**February 24, 2015**_. Virginia approves an act to [amend and reenact the _Ele
 * * *
 <br/>
 
-_**September 2, 2014**_. D
+_**September 2, 2014**_. Virginia Governor Terry McAuliffe [reveals plans](https://www.washingtonpost.com/local/virginia-politics/mcauliffe-backs-550-mile-natural-gas-pipeline-disappointing-environmentalists/2014/09/02/e1bd59c6-32a5-11e4-a723-fa3895a25d02_story.html) for the Atlantic Coast Pipeline, a new project in natural gas lead by Dominion Energy. It is proposed to cost $5 billion in construction, and will primarily run through North Carolina, West Virginia, and Virginia. The pipeline is proposed to bring natural gas to growing markets in the surrounding areas as well as create jobs, but it met with environmental concerns.
+
+* * *
+<br/>
 
 _**August 31, 2012**_. Dominion Energy files its [2012 Integrated Resource Plan](https://www.transmissionhub.com/wp-content/uploads/2018/12/Dominion-2012-IRP-1.pdf) for the Virginia SCC and the North Carolina Utilities Company. It mainly addresses changes the company will make to accommodate growing electric power needs from customers in a cost-effective manner. It does however introduce a potential plan with some renewable resources.
 
