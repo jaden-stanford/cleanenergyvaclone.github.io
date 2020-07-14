@@ -14,7 +14,10 @@ As a multi-disciplinary team including economists, engineers, and others, we add
 
 ### Simulation Modeling
 
-Our team uses a data-driven open-source modeling framework to conduct energy system analysis. Using historical data of energy production and consumption, we are able to simulate future scenarios for the state of Virginia when various policies are imposed. Simulated future scenarios help us better understand the impact of current clean energy policies, and make data-driven recommendations on future policies.
+Our team uses a data-driven open-source modeling framework to conduct energy system analysis. Using historical data of energy production and consumption, we are able to simulate future scenarios for the state of Virginia when various policies are imposed. Simulated future scenarios help us better understand the impact of current clean energy policies, and make data-driven recommendations on future policies. Below is the initial model created by one of our team members for Virginia's energy system.
+
+
+![](/cleanenergyva.github.io/images/simulationmodel.JPG)
 
 <br/>
 

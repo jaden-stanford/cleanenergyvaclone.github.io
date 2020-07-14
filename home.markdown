@@ -11,6 +11,9 @@ permalink: /
 We are a team of researchers at the University of Virginia Weldon Cooper Center for Public Service exploring options in clean energy sourcing in response to new legislation mandating net carbon emission neutrality in Virginia by 2050.
 
 
+The research done by our team is intended to assist the Virginia Department of Mines, Minerals, and Energy in developing a comprehensive and feasible action plan to produce one hundred percent of the state's electricity from carbon-free sources by 2050. This action plan is mandated by [Executive Order 43 (EO-43)](https://www.governor.virginia.gov/media/governorvirginiagov/executive-actions/EO-43-Expanding-Access-to-Clean-Energy-and-Growing-the-Clean-Energy-Jobs-of-the-Future.pdf), "Expanding Access to Clean Energy and Growing the Clean Energy Jobs of the Future," signed by the governor on September 16, 2019.
+
+
 
 <div id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover">
     <!-- Menu -->
@@ -60,13 +63,16 @@ We are a team of researchers at the University of Virginia Weldon Cooper Center 
 
 <br/>
 
-The research done by our team is intended to assist the Virginia Department of Mines, Minerals, and Energy in developing a comprehensive and feasible action plan to produce one hundred percent of the state's electricity from carbon-free sources by 2050. This action plan is mandated by [Executive Order 43 (EO-43)](https://www.governor.virginia.gov/media/governorvirginiagov/executive-actions/EO-43-Expanding-Access-to-Clean-Energy-and-Growing-the-Clean-Energy-Jobs-of-the-Future.pdf), "Expanding Access to Clean Energy and Growing the Clean Energy Jobs of the Future," signed by the governor on September 16, 2019.
 
 
 Our team is dedicated to improving the quality of Virginia's analysis into clean energy and sustainability practices as we progress toward net zero carbon emissions. A large focus of our project is on the potential of solar power and offshore wind power, as they have been determined to be two of the most promising sources for sustainable energy in Virginia.
 
 
 The [Timeline](/vacleanenergy.github.io/timeline/) page includes a comprehensive overview of the events in the United States and specifically Virginia until present day regarding clean energy. The timeline includes state and federal legislation, clean energy initiatives at UVA, events involving Dominion Energy and Appalachian Power Co., and more.
+
+
+Our team has also put together a [dashboard on the Virginia Clean Economy Progress](https://cleanenergyva.shinyapps.io/va_clean_economy_dashboard_production/). It includes several visuals on the state's overall progress towards carbon-free energy generation, as well as other energy-related graphics and data.
+
 
 
 In addition to the [general research interests](/vacleanenergy.github.io/research/) and [example projects](/vacleanenergy.github.io/projects/) on this site, we also maintain a [GitHub organization](https://github.com/coopercenter) where much of the code resulting from our research is released free and open source.
