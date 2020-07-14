@@ -60,7 +60,7 @@ We are a team of researchers at the University of Virginia Weldon Cooper Center 
 
 <br/>
 
-The research done by our team is intended to assist the Virginia Department of Mines, Minerals, and Energy in developing a comprehensive and feasible action plan to produce one hundred percent of the state's electricity from carbon-free sources by 2050. This action plan is mandated by Executive Order 43 (EO-43), "Expanding Access to Clean Energy and Growing the Clean Energy Jobs of the Future," signed by the governor on September 16, 2019.
+The research done by our team is intended to assist the Virginia Department of Mines, Minerals, and Energy in developing a comprehensive and feasible action plan to produce one hundred percent of the state's electricity from carbon-free sources by 2050. This action plan is mandated by [Executive Order 43 (EO-43)](https://www.governor.virginia.gov/media/governorvirginiagov/executive-actions/EO-43-Expanding-Access-to-Clean-Energy-and-Growing-the-Clean-Energy-Jobs-of-the-Future.pdf), "Expanding Access to Clean Energy and Growing the Clean Energy Jobs of the Future," signed by the governor on September 16, 2019.
 
 
 Our team is dedicated to improving the quality of Virginia's analysis into clean energy and sustainability practices as we progress toward net zero carbon emissions. A large focus of our project is on the potential of solar power and offshore wind power, as they have been determined to be two of the most promising sources for sustainable energy in Virginia.
