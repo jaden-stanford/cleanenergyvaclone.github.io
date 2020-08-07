@@ -11,10 +11,10 @@ Below are selected reports written by members of our team. Links are included to
 <br/>
 
 #### __Clean Sources of Dispatchable Electric Power__
-*An Assessment in Support of Achieving a 100% Clean Energy Future for Virginia*
-
+##### *An Assessment in Support of Achieving a 100% Clean Energy Future for Virginia*
 
 Authors: Daniel Aycock, Stephen Leff, Anthony Artuso
 
+[Full report](/cleanenergyva.github.io/cleansourcesofdispatchableelectricpower.markdown)
 
 ***

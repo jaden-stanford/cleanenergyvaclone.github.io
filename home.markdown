@@ -68,7 +68,7 @@ The research done by our team is intended to assist the Virginia Department of M
 Our team is dedicated to improving the quality of Virginia's analysis into clean energy and sustainability practices as we progress toward net zero carbon emissions. A large focus of our project is on the potential of solar power and offshore wind power, as they have been determined to be two of the most promising sources for sustainable energy in Virginia.
 
 
-The [Timeline](/vacleanenergy.github.io/timeline/) page includes a comprehensive overview of the events in the United States and specifically Virginia until present day regarding clean energy. The timeline includes state and federal legislation, clean energy initiatives at UVA, events involving Dominion Energy and Appalachian Power Co., and more.
+The [Timeline](/cleanenergyva.github.io/timeline/) page includes a comprehensive overview of the events in the United States and specifically Virginia until present day regarding clean energy. The timeline includes state and federal legislation, clean energy initiatives at UVA, events involving Dominion Energy and Appalachian Power Co., and more.
 
 
 Our team has also put together a [dashboard on the Virginia Clean Economy Progress](https://cleanenergyva.shinyapps.io/va_clean_economy_dashboard_production/). It includes several visuals on the state's overall progress towards carbon-free energy generation, as well as other energy-related graphics and data.
