@@ -1,6 +1,6 @@
 ---
-layout: default
-permalink: /cleansourcesofdispatchableelectricpower/
+layout: report
+permalink: /cleansourcesofdispatchableelectricpower.html
 ---
 
 ## Clean Sources of Dispatchable Electric Power
