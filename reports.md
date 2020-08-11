@@ -17,4 +17,6 @@ Authors: Daniel Aycock, Stephen Leff, Anthony Artuso
 
 [Full report](/cleanenergyva.github.io/reports/CleanDispatchablePowerforVA.pdf)
 
+[report](/cleanenergyva.github.io/reports/clean.md)
+
 ***
