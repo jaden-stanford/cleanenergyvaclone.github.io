@@ -3,10 +3,7 @@ title:
 permalink: /cleanpowerreport/
 ---
 
-# Virginia Clean Energy Project Team Website
 
-
-## About the site
 
 To edit any of the main tabs of the website:
 
