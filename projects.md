@@ -10,16 +10,27 @@ Below are selected current and past research projects that are representative of
 
 <br/>
 
+### The Virginia Solar initiative
+
+The Virginia Solar Initiative aims to leverage the world-class research, expertise, and resources of the University of Virginia and deliver strategic and technical assistance to localities in order to reduce policy uncertainty related to the siting of renewable energy facilities in Virginia
+
+![](/cleanenergyva.github.io/images/vsi.JPG)
+
+[More Information](https://solar.coopercenter.org/)
+
+***
+
+
+<br/>
+
+
+
 ### Power Contracting Proposal
 
 The target of this project is to build a system providing both prosumers and consumers with reliable information that can support them in making rational decisions on power contracting. This will involve the creation of flexible and negotiable smart contracts. To build smart contracts, a network will be built that allows interactions and information exchange between different kinds of stakeholders (prosumers, environment and users). An integrated platform that shares information will be developed and provided to all parts of the system.
 
 The interactions of the system will be divided into four levels: Generation Interaction, Market Interaction, Grid Interaction, and User Interaction. Generation interaction will involve communicating price information from the current market and demand information from grid and consumers to electricity-generating companies/organizations. The system will then decide the price offered to the market by reaching a balance between demand and production. Market Interaction will involve building a virtual market to make deals between consumers and prosumers. This will ignore decarbonization goals and instead set up price competition to reach a satisfying trade price. Grid Interaction will involve a smart grid that will get price data from the virtual market and build contract with the power generation side. Once this is created, distribution of energy will be allocated to the specific grid. Smart meters and sensors will send price information to the user side. User interaction will involve smart appliances set up at home. The smart appliances will be able to link with the local market and will record personal and usage information. It will set up three patterns (normal/default, price acceptance, prediction) for users to choose from.
 
-
-Sample 1             |  Sample 2
-:-------------------------:|:-------------------------:
-![](/cleanenergyva.github.io/images/powercontract1.JPG)  |  ![](/cleanenergyva.github.io/images/powercontract2.JPG)
 
 
 [GitHub Repository](https://github.com/coopercenter/power-contracts)
