@@ -14,7 +14,7 @@ Below are selected current and past research projects that are representative of
 
 The Virginia Solar Initiative aims to leverage the world-class research, expertise, and resources of the University of Virginia and deliver strategic and technical assistance to localities in order to reduce policy uncertainty related to the siting of renewable energy facilities in Virginia
 
-![](/cleanenergyva.github.io/images/vsi.JPG)
+![](/cleanenergyva.github.io/images/vsi.jpg)
 *Photo from Virginia Solar Initiative Homepage*
 
 [More Information](https://solar.coopercenter.org/)
