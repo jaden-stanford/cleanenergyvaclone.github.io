@@ -46,6 +46,7 @@ The creation of this Almanac is necessary because currently there is not a singl
 
 
 ![](/cleanenergyva.github.io/images/almanacfull.JPG)
+*Excerpt from the Almanac*
 
 
 
@@ -64,6 +65,7 @@ The creation of this Almanac is necessary because currently there is not a singl
 This project involves building and deploying a dashboard titled the Virginia Clean Economy Dashboard. It is intended for use by the Virginia Department of Mines, Minerals, & Energy. It will showcase a variety of energy data in Virginia related to the Virginia Clean Economy Act goals of carbon-free energy generation by 2050. It will detail energy storage and renewable energy generation in Virginia, as well as energy equity (how lower income households are affected by the clean energy transition). It will also provide a breakdown of sources of energy generation in previous years in Virginia, showing where the state gets the majority of its energy (gas, nuclear, etc.).  Additionally, it will contain information on energy consumption in Virginia by sector, including which sectors consume the most energy.
 
 ![](/cleanenergyva.github.io/images/dashboardfull.JPG)
+*Image of the Dashboard Homepage*
 
 [View this Dashboard](https://cleanenergyva.shinyapps.io/va_clean_economy_dashboard_production/)
 
