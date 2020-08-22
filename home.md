@@ -30,22 +30,29 @@ The research done by our team is intended to assist the Virginia Department of M
     <!-- Items -->
     <div class="carousel-inner">
         <div class="item active">
-            <img src="images/slider/original.jpg" alt="Slide 1" />
+            <img src="images/slider/original.jpg"
+            alt="Slide 1" />
+              <p style="text-align:right;"><i> Photo from <a href="https://www.flickr.com/photos/99206485@N02/12648929455TAFE">TAFE SA TONSLEY</a> on Flickr </i></p>
         </div>
         <div class="item">
             <img src="images/slider/windmills.jpg" alt="Slide 2" />
+            <p style="text-align:right;"><i> Photo from <a href="https://www.pexels.com/photo/white-windmill-687854/">Johan Bos</a> on Pexels </i></p>
         </div>
         <div class="item">
-            <img src="images/slider/windandsolar.jpg" alt="Slide 3" />
+            <img src="images/slider/sheep.jpg" alt="Slide 3" />
+            <p style="text-align:right;"><i> Photo from <a href="https://www.utilitydive.com/news/sheep-ag-and-sun-agrivoltaics-propel-significant-reductions-in-solar-main/581879/?utm_source=hootsuite&utm_medium=facebook&utm_term=&utm_content=422c8d83-6624-4802-87f6-cf961a0bf479&utm_campaign=">Jake Janske</a> at Enel Green Power </i></p>
         </div>
         <div class="item">
             <img src="images/slider/cvow2.jpg" alt="Slide 4" />
+            <p style="text-align:right;"><i> Photo from Coastal Virginia Offshore Wind Project </i></p>
         </div>
         <div class="item">
             <img src="images/slider/renewable.jpg" alt="Slide 5" />
+            <p style="text-align:right;"><i> Photo from <a href="https://www.flickr.com/photos/99206485@N02/12648929455TAFE">TAFE SA TONSLEY</a> on Flickr </i></p>
         </div>
         <div class="item">
             <img src="images/slider/solar-panels.jpg" alt="Slide 6" />
+            <p style="text-align:right;"><i> Photo from <a href="https://www.flickr.com/photos/99206485@N02/12648929455TAFE">TAFE SA TONSLEY</a> on Flickr </i></p>
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
