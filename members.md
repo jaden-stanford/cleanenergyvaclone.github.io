@@ -59,6 +59,17 @@ permalink: /team/
 
 <div class="row">
 
+<div class="col-sm-6 clearfix">
+  <p><img src="images/teampic/Marshall.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+  <h4>Elizabeth Marshall</h4>
+  <p><i>Senior Project Coordinator<br /> <a href="https://ceps.coopercenter.org/node/493326">Cooper Center Webpage</a></i></p>
+
+  <p> Design Thinking and Innovation Specialization, University of Virginia Darden School of Business<br />
+B.A., Urban and Environmental Planning, University of Virginia </p>
+
+  <p> Elizabeth coordinates the Virginia Solar Initiative for the Weldon Cooper Center. Immediately prior to this appointment she managed projects for Organizational Excellence, UVA’s pan-institutional quality and improvement program, and she has served as an urban planner in both the private and public sectors. She graduated from University of Virginia School of Architecture with a degree in Urban and Environmental Planning and holds a specialization in Design Thinking and Innovation from Darden Graduate School of Business.  </p>
+</div>
+
  <div class="col-sm-6 clearfix">
    <p><img src="images/teampic/Zhu.JPG" class="img-responsive" width="25%" style="float: left" /></p>
    <h4>Roger Zhu</h4>
@@ -70,6 +81,9 @@ permalink: /team/
 
    <p> Roger is a member of the Data Science team as well as the Policy Research team. He focuses mainly on the team research project for energy systems modeling, involving Temoa implementation for Virginia.  </p>
  </div>
+ </div>
+
+ <div class="row">
 
  <div class="col-sm-6 clearfix">
    <p><img src="images/teampic/Liu.JPG" class="img-responsive" width="25%" style="float: left" /></p>
@@ -82,9 +96,7 @@ permalink: /team/
    <p> Richard works with the Data Science team as well as the Policy Research team. His main focus is currently on the smart power contracting project, which is an integrated system intended to allow more efficient interaction between electricity prosumers and consumers. His research interests include data analytics and system design.  </p>
  </div>
 
-</div>
 
-<div class="row">
 
 <div class="col-sm-6 clearfix">
  <p><img src="images/teampic/Leff.JPG" class="img-responsive" width="25%" style="float: left" /></p>
@@ -98,16 +110,7 @@ permalink: /team/
  <p> Stephen is a member of the Policy Research team. He works as a Senior Systems Engineer for BWX Technologies  </p>
 </div>
 
- <div class="col-sm-6 clearfix">
-<p><img src="images/teampic/Gellerstedt.JPG" class="img-responsive" width="25%" style="float: left" /></p>
-<h4>Alexander Gellerstedt</h4>
-<p><i>Graduate Intern at Batten School<br /> <a href="https://www.linkedin.com/in/alexander-gellerstedt-465997166/?trk=public_profile_browsemap_profile-result-card_result-card_full-click">LinkedIn</a></i></p>
 
-<p> M.P.P., Public Policy Analysis, University of Virginia <br />
-   B.S., Economics, Business, University of Virginia<br /> </p>
-
-<p> Alexander is a member of the Policy Research team. He is currently working on state summaries of clean energy practices for team reports. </p>
-</div>
 
 </div>
 
@@ -152,57 +155,6 @@ permalink: /team/
   <p> Emily is a member of the Data Science team and publications process. She works on data management as well as the Virginia Electricity Almanac. </p>
  </div>
 
-  <div class="col-sm-6 clearfix">
-    <p><img src="images/teampic/Awashti.JPG" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Neha Awasthi</h4>
-    <p><i>Undergraduate Research Assistant<br /> <a href="">LinkedIn</a></i></p>
-
-    <p> B.S., Civil and Environmental Engineering, University of Virginia </p>
-
-    <p> Neha is a member of the Data Science team. She works primarily on tasks in data visualization for parts of the team project, as well as on the states dashboard project.  </p>
-
-
-  </div>
-
-</div>
-
-<div class="row">
-
-  <div class="col-sm-6 clearfix">
-    <p><img src="images/teampic/Stevens.JPG" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Jamison Stevens</h4>
-    <p><i>Undergraduate Research Assistant<br /> <a href="https://www.linkedin.com/in/jamisonstevens/">LinkedIn</a></i></p>
-
-      <p> B.S, Electrical Engineering, University of Virginia <br />
-          B.A, Economics, University of Virginia <br /> </p>
-
-    <p> Jamison is a member of the Data Science team and Policy Research team. He works on data and analytics, the publications process, and community solar policy. </p>
-  </div>
-
-  <div class="col-sm-6 clearfix">
-    <p><img src="images/teampic/Freitas.JPG" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Alexis Freitas</h4>
-    <p><i>Undergraduate Research Assistant<br /> <a href="">LinkedIn</a></i></p>
-
-    <p> Alexis is a member of the Data Science team. She works primarily on the team dashbords and data visualization projects. </p>
-
-
-  </div>
-
-</div>
-
-<div class="row">
-
-<div class="col-sm-6 clearfix">
-  <p><img src="images/teampic/Coppins.JPG" class="img-responsive" width="25%" style="float: left" /></p>
-  <h4>Lauren Coppins</h4>
-  <p><i>Undergraduate Research Assistant<br /> <a href="https://www.linkedin.com/in/lauren-coppins-045857195/">LinkedIn</a></i></p>
-
-              <p> B.S., Commerce, University of Virginia </p>
-
-  <p> Lauren is a member of the Data Science team. She works primarily on data visualization projects for the various team dashboards. </p>
-</div>
-
 
   <div class="col-sm-6 clearfix">
     <p><img src="images/teampic/placeholder.JPG" class="img-responsive" width="25%" style="float: left" /></p>
@@ -216,47 +168,9 @@ permalink: /team/
 
 </div>
 
-<div class="row">
 
-
-  <div class="col-sm-6 clearfix">
-    <p><img src="images/teampic/Brenman.JPG" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>David Brenman</h4>
-    <p><i>Undergraduate Research Assistant<br /> <a href="https://www.linkedin.com/in/david-brenman/">LinkedIn</a></i></p>
-
-            <p> B.S., Systems Engineering, University of Virginia <br />
-	  B.A., Economics, University of Virginia</p>
-
-    <p> David works with the Data Science and Policy Research team. He is currently working on researching Virginia's power grid and conducting analysis on its transmission & distribution system. He also helps pull data from the team database.  </p>
-  </div>
-
-  <div class="col-sm-6 clearfix">
-    <p><img src="images/teampic/pathange.JPG" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Aishvarya Pathange</h4>
-    <p><i>Undergraduate Research Assistant<br /> <a href="https://www.linkedin.com/in/aishvarya-pathange/">LinkedIn</a></i></p>
-
-    <p> B.S., Economics, University of Virginia <br />
-B.A., Psychology, University of Virginia</p>
-
-    <p> Aishvarya is a member of the Data Science team, working mainly on data visualization projects. Currently, she is creating various graphics for capacity factor data for team dashboards.</p>
-
-</div>
-</div>
 
 <div class="row">
-
-  <div class="col-sm-6 clearfix">
-    <p><img src="images/teampic/Snell.JPG" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Harrison Snell</h4>
-	  <p><i>Undergraduate Research Assistant<br /> <a href="https://www.linkedin.com/in/harrison-snell-324a23187/">LinkedIn</a></i></p>
-
-      <p> B.A., Economics, University of Virginia <br />
-	  B.A., Mathematics, University of Virginia</p>
-
-    <p>Harrison is a member of the Policy Research team. He is working on compiling summaries of legislation and policies for other clean energy states. He is also researching Virginia's transmission grid to explore how it will need to be modified to meet the demands of renewable energy production. </p>
-
-
-  </div>
 
 
   <div class="col-sm-6 clearfix">
@@ -268,20 +182,7 @@ B.A., Psychology, University of Virginia</p>
 
     <p> Brian is a member of the Data Science team. He collects datasets in order to be used within the team database. He also helps to organize and clean datasets, as well as to write scripts to pull needed information. </p>
   </div>
-    </div>
 
-  <div class="row">
-
-  <div class="col-sm-6 clearfix">
-    <p><img src="images/teampic/Luu.JPG" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Mai Luu</h4>
-    <p><i>Undergraduate Research Assistant<br /> <a href="">LinkedIn</a></i></p>
-
-    <p> B.S., Systems Engineering, University of Virginia <br />
-        A.S., Engineering, Northern Virginia Community College<br /> </p>
-
-    <p> Mai is a member of the Data Science team. She mainly contributes to team data management projects. </p>
-  </div>
 
   <div class="col-sm-6 clearfix">
     <p><img src="images/teampic/Stanford.JPG" class="img-responsive" width="25%" style="float: left" /></p>
@@ -332,19 +233,6 @@ B.A., Psychology, University of Virginia</p>
     <p> Chloe is a member of the Data Science team. She currently acts as the team database administrator, making sure data tables and github code writing to the database is clean and consistent. She will also oversee geospatial data addition to the database.</p>
   </div>
 
-  <div class="col-sm-6 clearfix">
-    <p><img src="images/teampic/placeholder.JPG" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Sarah Benda</h4>
-    <p><i>Undergraduate Research Assistant<br /> <a href="">LinkedIn</a></i></p>
-
-    <p> B.S., Economics and Global Sustainability, University of Virginia </p>
-
-    <p> Sarah is a member of the Policy Research team.  She is currently working on a report analyzing the soft costs of distribute d solar power as well as identifying the best practices for soft cost reduction. </p>
-  </div>
-
-  </div>
-
-  <div class="row">
 
   <div class="col-sm-6 clearfix">
     <p><img src="images/teampic/Groscup.JPG" class="img-responsive" width="25%" style="float: left" /></p>
@@ -356,17 +244,6 @@ B.A., Psychology, University of Virginia</p>
     <p> Charles is a member of the Policy Research team. He is currently working on compiling state summaries regarding different clean energy policies and initiatives for the State Energy Dashboard. </p>
   </div>
 
-
-  <div class="col-sm-6 clearfix">
-    <p><img src="images/teampic/Feeney.JPG" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Allison Feeney</h4>
-    <p><i>Undergraduate Research Intern<br /> <a href="https://www.linkedin.com/in/mary-allison-feeney/ ">LinkedIn</a></i></p>
-
-    <p> B.S., Chemical Engineering, University of Virginia </p>
-
-        <p> Allison is a member of the Policy Research team. She contributes to the state summary projects and will also  research energy storage policies. </p>
-
- </div>
 
 </div>
 
@@ -435,5 +312,142 @@ B.S., Business Administration, University of Tennessee</p>
 
 </div>
 
+<div class="col-sm-6 clearfix">
+  <p><img src="images/teampic/Awashti.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+  <h4>Neha Awasthi</h4>
+  <p><i>Undergraduate Research Assistant<br /> <a href="">LinkedIn</a></i></p>
+
+  <p> B.S., Civil and Environmental Engineering, University of Virginia </p>
+
+  <p> Neha was a member of the Data Science team. She worked primarily on tasks in data visualization for parts of the team project, as well as on the states dashboard project.  </p>
+
      </div>
    </div>
+
+   <div class="row">
+
+     <div class="col-sm-6 clearfix">
+       <p><img src="images/teampic/Stevens.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+       <h4>Jamison Stevens</h4>
+       <p><i>Undergraduate Research Assistant<br /> <a href="https://www.linkedin.com/in/jamisonstevens/">LinkedIn</a></i></p>
+
+         <p> B.S, Electrical Engineering, University of Virginia <br />
+             B.A, Economics, University of Virginia <br /> </p>
+
+       <p> Jamison was a member of the Data Science team and Policy Research team. He worked on data and analytics, the publications process, and community solar policy. </p>
+     </div>
+
+     <div class="col-sm-6 clearfix">
+       <p><img src="images/teampic/Freitas.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+       <h4>Alexis Freitas</h4>
+       <p><i>Undergraduate Research Assistant<br /> <a href="">LinkedIn</a></i></p>
+
+       <p> Alexis was a member of the Data Science team. She worked primarily on the team dashboards and data visualization projects. </p>
+
+
+     </div>
+
+   </div>
+
+   <div class="row">
+
+   <div class="col-sm-6 clearfix">
+     <p><img src="images/teampic/Coppins.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+     <h4>Lauren Coppins</h4>
+     <p><i>Undergraduate Research Assistant<br /> <a href="https://www.linkedin.com/in/lauren-coppins-045857195/">LinkedIn</a></i></p>
+
+                 <p> B.S., Commerce, University of Virginia </p>
+
+     <p> Lauren was a member of the Data Science team. She worked primarily on data visualization projects for the various team dashboards. </p>
+
+     </div>
+
+     <div class="col-sm-6 clearfix">
+    <p><img src="images/teampic/Gellerstedt.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Alexander Gellerstedt</h4>
+    <p><i>Graduate Intern at Batten School<br /> <a href="https://www.linkedin.com/in/alexander-gellerstedt-465997166/?trk=public_profile_browsemap_profile-result-card_result-card_full-click">LinkedIn</a></i></p>
+
+    <p> M.P.P., Public Policy Analysis, University of Virginia <br />
+       B.S., Economics, Business, University of Virginia<br /> </p>
+
+    <p> Alexander was a member of the Policy Research team. He contributed mainly to state summaries of clean energy practices for team reports. </p>
+    </div>
+
+   </div>
+
+   <div class="row">
+
+
+     <div class="col-sm-6 clearfix">
+       <p><img src="images/teampic/Brenman.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+       <h4>David Brenman</h4>
+       <p><i>Undergraduate Research Assistant<br /> <a href="https://www.linkedin.com/in/david-brenman/">LinkedIn</a></i></p>
+
+               <p> B.S., Systems Engineering, University of Virginia <br />
+   	  B.A., Economics, University of Virginia</p>
+
+       <p> David worked with the Data Science and Policy Research team. He researched Virginia's power grid and conducted analysis on its transmission & distribution system. He also helped pull data from the team database.  </p>
+     </div>
+
+     <div class="col-sm-6 clearfix">
+       <p><img src="images/teampic/pathange.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+       <h4>Aishvarya Pathange</h4>
+       <p><i>Undergraduate Research Assistant<br /> <a href="https://www.linkedin.com/in/aishvarya-pathange/">LinkedIn</a></i></p>
+
+       <p> B.S., Economics, University of Virginia <br />
+   B.A., Psychology, University of Virginia</p>
+
+       <p> Aishvarya was a member of the Data Science team, working mainly on data visualization projects. She also worked to create various graphics for capacity factor data for team dashboards.</p>
+
+   </div>
+   </div>
+
+   <div class="row">
+
+     <div class="col-sm-6 clearfix">
+       <p><img src="images/teampic/Snell.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+       <h4>Harrison Snell</h4>
+   	  <p><i>Undergraduate Research Assistant<br /> <a href="https://www.linkedin.com/in/harrison-snell-324a23187/">LinkedIn</a></i></p>
+
+         <p> B.A., Economics, University of Virginia <br />
+   	  B.A., Mathematics, University of Virginia</p>
+
+       <p>Harrison was a member of the Policy Research team. He worked on compiling summaries of legislation and policies for other clean energy states. He also researched Virginia's transmission grid to explore how it would need to be modified to meet the demands of renewable energy production. </p>
+       </div>
+
+
+       <div class="col-sm-6 clearfix">
+         <p><img src="images/teampic/Luu.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+         <h4>Mai Luu</h4>
+         <p><i>Undergraduate Research Assistant<br /> <a href="">LinkedIn</a></i></p>
+
+         <p> B.S., Systems Engineering, University of Virginia <br />
+             A.S., Engineering, Northern Virginia Community College<br /> </p>
+
+         <p> Mai was a member of the Data Science team. She mainly contributed to team data management projects. </p>
+       </div>
+       </div>
+
+<div class="row">
+       <div class="col-sm-6 clearfix">
+         <p><img src="images/teampic/placeholder.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+         <h4>Sarah Benda</h4>
+         <p><i>Undergraduate Research Assistant<br /> <a href="">LinkedIn</a></i></p>
+
+         <p> B.S., Economics and Global Sustainability, University of Virginia </p>
+
+         <p> Sarah was a member of the Policy Research team.  She worked on a report analyzing the soft costs of distributed solar power as well as identifying the best practices for soft cost reduction. </p>
+
+         </div>
+
+         <div class="col-sm-6 clearfix">
+           <p><img src="images/teampic/Feeney.JPG" class="img-responsive" width="25%" style="float: left" /></p>
+           <h4>Allison Feeney</h4>
+           <p><i>Undergraduate Research Intern<br /> <a href="https://www.linkedin.com/in/mary-allison-feeney/ ">LinkedIn</a></i></p>
+
+           <p> B.S., Chemical Engineering, University of Virginia </p>
+
+               <p> Allison was a member of the Policy Research team. She contributed to the state summary projects and also researched energy storage policies. </p>
+
+          </div>
+          </div>
