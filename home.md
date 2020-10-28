@@ -39,7 +39,7 @@ The research done by our team is intended to assist the Virginia Department of M
             <p style="text-align:right;"><i> Photo from <a href="https://www.pexels.com/photo/white-windmill-687854/">Johan Bos</a> on Pexels </i></p>
         </div>
         <div class="item">
-            <img src="images/slider/sheep.jpg" alt="Slide 3" />
+            <img src="images/slider/sheep.JPG" alt="Slide 3" />
             <p style="text-align:right;"><i> Photo from <a href="https://www.utilitydive.com/news/sheep-ag-and-sun-agrivoltaics-propel-significant-reductions-in-solar-main/581879/?utm_source=hootsuite&utm_medium=facebook&utm_term=&utm_content=422c8d83-6624-4802-87f6-cf961a0bf479&utm_campaign=">Jake Janske</a> at Enel Green Power </i></p>
         </div>
         <div class="item">
